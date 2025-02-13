@@ -7,7 +7,14 @@
 🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, automação e criação de sistemas inovadores. No meu tempo livre, gosto de experimentar novas tecnologias e contribuir para a comunidade.
 
 📌 Sempre aberto a novas oportunidades e colaborações!
-
+<p align="left">
+    <a href="https://www.youtube.com/@SwornRare?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
     <a href="https://github.com/bxbyrare?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
