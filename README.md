@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-👋 Olá! Sou JuramentadoRaro , natural do Rio de Janeiro. Atualmente, estou concluindo o ensino médio e cursando informática. Sou apaixonado por tecnologia e programação, sempre explorando novas linguagens e desenvolvendo projetos desafiadores.
+👋 Olá! Sou SwornRare , natural do Rio de Janeiro. Atualmente, estou concluindo o ensino médio e cursando informática. Sou apaixonado por tecnologia e programação, sempre explorando novas linguagens e desenvolvendo projetos desafiadores.
 
 🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, automação e criação de sistemas inovadores. No meu tempo livre, gosto de experimentar novas tecnologias e contribuir para a comunidade.
 
