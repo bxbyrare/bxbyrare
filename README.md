@@ -1,17 +1,13 @@
-# 👩🏻‍💻 Larissa Kich
+# 🧑‍💻 SwornRare
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+👋 Olá! Sou JuramentadoRaro , natural do Rio de Janeiro. Atualmente, estou concluindo o ensino médio e cursando informática. Sou apaixonado por tecnologia e programação, sempre explorando novas linguagens e desenvolvendo projetos desafiadores.
 
-<p align="left">
-    <a href="https://www.youtube.com/@SwornRare?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, automação e criação de sistemas inovadores. No meu tempo livre, gosto de experimentar novas tecnologias e contribuir para a comunidade.
+
+📌 Sempre aberto a novas oportunidades e colaborações!
+
     <a href="https://github.com/bxbyrare?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
