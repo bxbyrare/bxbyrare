@@ -1,4 +1,4 @@
-# 🧑‍💻 SwornRare
+# 👩🏻‍💻 SwornRare
 
 **`Desenvolvedor`**
 
@@ -7,6 +7,7 @@
 🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, automação e criação de sistemas inovadores. No meu tempo livre, gosto de experimentar novas tecnologias e contribuir para a comunidade.
 
 📌 Sempre aberto a novas oportunidades e colaborações!
+
 <p align="left">
     <a href="https://www.youtube.com/@SwornRare?sub_confirmation=1">
         <img 
@@ -50,7 +51,26 @@
     title="Lua"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/125px-Lua-Logo.svg.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <br/>
