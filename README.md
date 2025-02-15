@@ -1,4 +1,4 @@
-# 👩🏻‍💻 SwornRare
+# 🧑🏻‍💻 SwornRare
 
 **`Desenvolvedor`**
 
